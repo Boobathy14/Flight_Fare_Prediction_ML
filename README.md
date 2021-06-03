@@ -1,13 +1,18 @@
 # Flight-Fare-Prediction-ML
 
 Created a project that estimates Flight Prices to help the end user to look for best prices when booking flight tickets.
+
 Features extraction of this dataset are Departure Time, Date of Journey, to quantify the data and make it more useable.
+
 Built a client using API model with the help of flask framework
 
 ## Codes and Resources Used
 Python Version: 3.8.5
+
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, pickle
+
 Dataset: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
+
 Python IDE: coblab
 
 ## Process
