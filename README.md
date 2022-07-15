@@ -9,12 +9,18 @@ Built a client using API model with the help of flask framework
 ## Codes and Resources Used
 Python Version: 3.8.5
 
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, pickle![Pandas](https://user-images.githubusercontent.com/74816597/179324310-b0327761-08f3-475f-8f1a-d94d80e06710.png)
-
-
 Dataset: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 
 Python IDE: coblab
+
+Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, pickle!
+[Pandas](https://user-images.githubusercontent.com/74816597/179324310-b0327761-08f3-475f-8f1a-d94d80e06710.png)![Numpy](https://user-images.githubusercontent.com/74816597/179324428-64adfb5b-0a70-4527-8997-50908caf6d4d.png)
+
+
+
+
+
+
 
 ## Process
 Importing Required Package
