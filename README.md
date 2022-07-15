@@ -6,20 +6,21 @@ Features extraction of this dataset are Departure Time, Date of Journey, to quan
 
 Built a client using API model with the help of flask framework
 
-## Codes and Resources Used
+## Codes 
 Python Version: 3.8.5
 
 Dataset: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 
 Python IDE: coblab
 
-Packages: pandas, numpy, sklearn, matplotlib, seaborn, flask, pickle
-![Pandas](https://user-images.githubusercontent.com/74816597/179324310-b0327761-08f3-475f-8f1a-d94d80e06710.png)![Numpy](https://user-images.githubusercontent.com/74816597/179324428-64adfb5b-0a70-4527-8997-50908caf6d4d.png)
+## Resources Used (Packages):
 
-
-
-
-
+![Pandas](https://user-images.githubusercontent.com/74816597/179324310-b0327761-08f3-475f-8f1a-d94d80e06710.png)
+![Numpy](https://user-images.githubusercontent.com/74816597/179324428-64adfb5b-0a70-4527-8997-50908caf6d4d.png)
+![sklearn](https://user-images.githubusercontent.com/74816597/179324564-06f8b329-93a9-401f-8c56-ba5e08ed5273.png)
+![matplotlib](https://user-images.githubusercontent.com/74816597/179324682-9a21aa52-57b6-4e94-aa2b-555503afd588.jpg)
+![Seaborn](https://user-images.githubusercontent.com/74816597/179324760-a8450549-0256-40e7-98f1-89ff40252421.png)
+![flask-logo](https://user-images.githubusercontent.com/74816597/179324807-875cd23b-812a-4d06-b63c-4ce5d7cd3505.png)
 
 
 ## Process
