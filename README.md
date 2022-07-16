@@ -14,7 +14,8 @@ Dataset: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 Python IDE: coblab
 
 ## Resources Used (Packages):
-<img src="https://optimise2.assets-servd.host/voracious-blesbok/production/Blog/pandas-logo-2-1024x500.png?w=1024&auto=compress%2Cformat&fit=crop&dm=1642625336&s=df3c520738a678c897af662476593493" width="500" height="290">
+![Pandas](https://user-images.githubusercontent.com/74816597/179326124-e0772245-86b3-4b92-91a4-4f34043dd608.png)
+![Numpy](https://user-images.githubusercontent.com/74816597/179326134-d2f679f2-5837-4bd5-b7a0-36900d78f35a.png)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="500" height="290">
 <img src="https://matplotlib.org/stable/_static/logo2.svg" width="500" height="290">
 <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="400" height="400">
