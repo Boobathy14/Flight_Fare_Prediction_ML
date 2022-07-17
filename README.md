@@ -14,13 +14,12 @@ Dataset: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 Python IDE: coblab
 
 ## Resources Used (Packages):
-![Pandas](https://user-images.githubusercontent.com/74816597/179326124-e0772245-86b3-4b92-91a4-4f34043dd608.png)
 ![Numpy](https://user-images.githubusercontent.com/74816597/179326134-d2f679f2-5837-4bd5-b7a0-36900d78f35a.png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="500" height="290">
-<img src="https://matplotlib.org/stable/_static/logo2.svg" width="500" height="290">
-<img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="400" height="400">
-![flask-logo](https://user-images.githubusercontent.com/74816597/179324807-875cd23b-812a-4d06-b63c-4ce5d7cd3505.png)
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&usqp=CAU"  width="300" height="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="350" height="200">
+<img src="https://matplotlib.org/stable/_static/logo2.svg" width="300" height="200">
+<img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="200" height="200">
+<img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="300" height="200">
 
 ## Process
 Importing Required Package
