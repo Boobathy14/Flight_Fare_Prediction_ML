@@ -16,7 +16,7 @@ Python IDE: coblab
 ## Resources Used (Packages):
 ![Numpy](https://user-images.githubusercontent.com/74816597/179326134-d2f679f2-5837-4bd5-b7a0-36900d78f35a.png)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&usqp=CAU"  width="300" height="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="350" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="300" height="100">
 <img src="https://matplotlib.org/stable/_static/logo2.svg" width="300" height="200">
 <img src="https://files.ai-pool.com/a/21155149cb560f48f085a21264277c3c.png" width="200" height="200">
 <img src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="300" height="200">
