@@ -18,23 +18,35 @@ Dataset: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 
 ## Roles & Responsibilities:
 Worked on Data Wrangling/ Cleaning.
+
 Performed EDA(Exploratory Data Analysis) & Feature Engineering.
+
 Appling different algoritm for identifing best model.
+
 Performing Model Selection.
+
 Achieved, The accuracy of 85% after tunning the model.
 
 ## Process
 Data Wrangling/Cleaning
+
 EDA / Feature Engineering
+
 Classification
+
 Prediction 
+
 Calculate Loss and Accuracy
+
 Visualization
 
 ## Data Wrangling/Cleaning:
 > Checking whether the dataset is filled with nan value or not.
+
 > If the dataset have NAN value dropna() function used to drop the na value.
+
 > Converting Departure_time, Arival_time, Date_of_Journey (Columns) to datetime datatype.
+
 > Split all Date_of_Journey to Date and Month.
 
 ![120584933-78e99800-c44e-11eb-9dd1-812510cefcb4](https://user-images.githubusercontent.com/74816597/179391351-39b74501-af32-4b7a-8575-3d3b9059bbea.jpg)
